@@ -1,0 +1,5 @@
+com\saran\mapper\EmpMapperImpl.class
+com\saran\mapper\EmpMapper.class
+com\saran\dto\EmpDTO.class
+com\hcl\App.class
+com\hcl\model\Emp.class
